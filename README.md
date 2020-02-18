@@ -1,6 +1,6 @@
 ### SpeedCoding - landing page - 1
-Idea is to write landing page as fast as you can.
-So i wrote this website in 3h 40min.
+Idea was to write landing page as fast as you can.
+I wrote this website in 3h 40min.
 
 Please don't judge my code, because i wrote it without any break and it was depend on rule: "fast as you can".
 
